@@ -1,0 +1,12 @@
+[review]
+daily_limit = 2
+default_review_days = 0
+
+# Default challenge type for newly added knowledge.
+# Valid values: recall, explain, apply
+review_mode = "recall"
+
+correct_review_days = 7
+partial_review_days = 3
+wrong_review_days = 1
+dont_know_review_days = 0
